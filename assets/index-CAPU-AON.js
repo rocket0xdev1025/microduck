@@ -12583,8 +12583,8 @@ Error generating stack: ` +
   p = `TBA`,
   m = `https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=${p}`,
   h = `https://dexscreener.com/solana/${p}`,
-  g = `https://robinhoodchain.blockscout.com/token/${p}`,
-  _ = `https://x.com/MicroDuckNVDA`,
+  g = `https://t.me/microducksol`,
+  _ = `https://x.com/microducksol`,
   v = [
     { number: `15`, label: `motors`, note: `whole-body movement` },
     { number: `25`, unit: `cm`, label: `tall`, note: `desk-sized hardware` },
@@ -13159,10 +13159,10 @@ function x() {
                 children: `X / Twitter ↗`,
               }),
               (0, f.jsx)(`a`, {
-                href: h,
+                href: g,
                 target: `_blank`,
                 rel: `noreferrer`,
-                children: `DexScreener ↗`,
+                children: `Community ↗`,
               }),
             ],
           }),
