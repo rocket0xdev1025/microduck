@@ -12576,11 +12576,11 @@ Error generating stack: ` +
       );
     }
     (e.jsx = n), (e.jsxs = n);
-  }),
+  }), 
   f = e((e, t) => {
     t.exports = d();
   })(),
-  p = `TBA`,
+  p = `6geueUmdu9KcvprZm1DTsrvywZUB4B59NfLXc9nEpump`,
   m = `https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=${p}`,
   h = `https://dexscreener.com/solana/${p}`,
   g = `https://t.me/microducksol`,
