@@ -13167,7 +13167,7 @@ function x() {
             ],
           }),
           (0, f.jsx)(`p`, {
-            children: `$microduck is an unofficial community token and is not affiliated with, endorsed by, or operated by Pollen Robotics, Hugging Face, or Robinhood. Product information and credited imagery reference Pollen Robotics. Crypto assets are volatile; nothing here is financial advice.`,
+            children: `$microduck is an unofficial community token and is not affiliated with, endorsed by, or operated by Pollen Robotics. Product information and credited imagery reference Pollen Robotics. Crypto assets are volatile; nothing here is financial advice.`,
           }),
         ],
       }),
